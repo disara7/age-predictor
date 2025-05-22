@@ -1,3 +1,3 @@
 # Simple Age Predictor Application
 
-Build using Next.js for the frontend and Express.js for the backend, calling an external online API for age prediction data.
+Built using Next.js for the frontend and Express.js for the backend, calling an external online API for age prediction data.
